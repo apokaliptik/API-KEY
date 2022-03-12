@@ -8,5 +8,4 @@
 - [`Rynz`]()
 - [`Creative Team`]()
 - [`ZeeoneOfc`]()
-- [`SKIUWERS`]()
-- [`ItsMeArip`]()
+
